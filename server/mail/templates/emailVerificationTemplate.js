@@ -67,7 +67,7 @@ const otpTemplate = (otp) => {
 	<body>
 		<div class="container">
 			<a href="https://edu-flex-devansh-rauts-projects.vercel.app/"><img class="logo"
-					src="https://app.gemoo.com/share/image-annotation/675826409650470912?codeId=vzawEgXKAAo3d&origin=imageurlgenerator" alt="EDUFLEX Logo"></a>
+					src="https://i.postimg.cc/XvsbZSRf/pixelcut-export.png" alt="EDUFLEX Logo"></a>
 			<div class="message">EDUFLEX OTP Verification Email</div>
 			<div class="body">
 				<p>Dear User,</p>
